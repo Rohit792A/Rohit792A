@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 - 💻 Currently I am doing Data Analysis Projects .
 - 💞️ I’m looking to collaborate on Python Projects .
 - 📫 Reach me on this github platform .
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit792A&show_icons=true&theme=radical)
 
-<p align="left">
-  
-</p>
 
   
 
