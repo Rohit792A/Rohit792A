@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Python Projects .
 - 📫 Reach me on this github platform .
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit792A&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit792A&show_icons=true&theme=radical)
 
 <!---
 Rohit792A/Rohit792A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
