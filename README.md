@@ -7,12 +7,15 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-a
-- 👀 I’m interested in Data Analytics and uncovering insights from Data .
-- 🌱 I’m currently learning a course provided by Google on data analytics .
-- 💻 Currently I am doing Data Analysis Projects .
-- 💞️ I’m looking to collaborate on Python Projects .
-- 📫 Reach me on this github platform .
+<p>
+
+- 👀 I’m interested in Data Analytics and uncovering insights from Data . <br>
+- 🌱 I’m currently learning a course provided by Google on data analytics .<br>
+- 💻 Currently I am doing Data Analysis Projects .<br>
+- 💞️ I’m looking to collaborate on Python Projects .<br>
+- 📫 Reach me on this github platform .<br>
+  
+  </p>
 
 
 
