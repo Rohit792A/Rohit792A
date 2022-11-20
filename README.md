@@ -11,7 +11,7 @@
 Rohit792A/Rohit792A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **Satellite Image Dehazing**
@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit792a&show_icons=true&locale=en&layout=compact" alt="rohit792a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit792a&show_icons=true&locale=en" alt="rohit792a" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit792a&show_icons=true&locale=en" alt="rohit792a" /></p> -->
