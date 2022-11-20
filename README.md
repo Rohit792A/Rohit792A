@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
--👋 Hi, I’m Rohit Kushwaha
+a
 - 👀 I’m interested in Data Analytics and uncovering insights from Data .
 - 🌱 I’m currently learning a course provided by Google on data analytics .
 - 💻 Currently I am doing Data Analysis Projects .
