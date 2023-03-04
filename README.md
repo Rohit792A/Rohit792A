@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Data Analytics and uncovering insights from Data . <br>
 - 🌱 I’m currently learning a course provided by Google on data analytics .<br>
-- 💻 Currently I am doing Data Analysis Projects .<br>
+- 💻 Currently I am working on  Data Analysis Projects . .<br>
 - 💞️ I’m looking to collaborate on Python Projects .<br>
 - 📫 Reach me on this github platform .<br>
   
