@@ -18,7 +18,7 @@
 ```python
 rohit = {
     "name"       : "Rohit Kushwaha",
-    "college"    : "Bhilai Institute of Technology, Durg",
+    "company"    : "TCS",
     "role"       : "Data Engineer (Fresher → Building Fast)",
     "stack"      : ["Python", "SQL", "Pandas", "PySpark (learning)", "Airflow (next)"],
     "interests"  : ["ETL Pipelines", "Data Modeling", "Cloud Data Platforms"],
